@@ -1,0 +1,11 @@
+# Python virtual environment
+bioinf-env/
+__pycache__/
+
+# macOS clutter
+.DS_Store
+
+# Course material and PDFs (not part of the code)
+*.docx
+*.pptx
+*.pdf
