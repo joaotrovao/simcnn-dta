@@ -9,3 +9,12 @@ __pycache__/
 *.docx
 *.pptx
 *.pdf
+
+# Downloaded datasets and cached similarity matrices (recreated by the code)
+data/
+
+# Model backups
+checkpoints/
+
+# Log files
+*.log

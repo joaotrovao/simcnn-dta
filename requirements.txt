@@ -1,0 +1,10 @@
+tensorflow==2.21.0
+numpy==2.4.6
+pandas==2.3.3
+rdkit==2026.9.1
+biopython==1.88
+PyTDC==0.4.1
+setuptools<81  # PyTDC still imports pkg_resources
+scikit-learn==1.9.1
+lifelines==0.30.3
+matplotlib==3.11.2
